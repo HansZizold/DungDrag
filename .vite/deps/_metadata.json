@@ -5,19 +5,19 @@
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "607c8fd8",
+      "fileHash": "238af2c4",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "44ffc2e3",
+      "fileHash": "9e229a47",
       "needsInterop": true
     },
     "bootstrap/dist/js/bootstrap.min.js": {
       "src": "../../node_modules/bootstrap/dist/js/bootstrap.min.js",
       "file": "bootstrap_dist_js_bootstrap__min__js.js",
-      "fileHash": "4de62979",
+      "fileHash": "c62fea3a",
       "needsInterop": true
     }
   },
